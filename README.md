@@ -1,6 +1,6 @@
 # 👋 Narayan Modak | DevOps & Cloud Architect
 
-> 🚀 **Certified Kubernetes Expert** | Cloud Infrastructure Specialist | Open to Global Opportunities
+> 🚀 **Certified Kubernetes Expert** | DevSecOps Specialist | Cloud Infrastructure Expert | Open to Global Opportunities
 >
 > ---
 >
@@ -16,56 +16,70 @@
 >
 > ## 🏢 **Currently Seeking**
 >
-> > 🎯 **Open to DevOps Engineer, Cloud Architect, and SRE roles**
+> > 🎯 **Open to DevSecOps, Azure DevOps, Cloud Architect, and SRE roles**
 > > > - Locations: Worldwide / Remote preferred
-> > > - > - Focus: Enterprise-scale infrastructure, Kubernetes, Cloud platforms
+> > > - > - Focus: Enterprise-scale infrastructure, Kubernetes, Cloud platforms, Security automation
 > > >   > - > - [Email me](mailto:modaknarayan97@gmail.com) | [Schedule a call](#connect-with-me)
 > > >   >   >
 > > >   >   > - ---
 > > >   >   >
 > > >   >   > ## 🛠️ **Technical Expertise**
 > > >   >   >
-> > >   >   > ### ☁️ **Cloud Platforms**
+> > >   >   > ### ☁️ **Cloud Platforms & DevOps**
 > > >   >   > ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 > > >   >   > ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+> > >   >   > ![Azure%20DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat&logo=azure-devops&logoColor=white)
 > > >   >   > - **Azure**: Infrastructure, AKS, DevOps, Resource Management
-> > >   >   > - - **AWS**: EC2, ECS, Lambda, CloudFormation, DynamoDB
-> > >   >   >  
-> > >   >   >   - ### 🐳 **Orchestration & Containers**
-> > >   >   >   - ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-> > >   >   >   - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-> > >   >   >   - ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
-> > >   >   >   - - **Kubernetes**: Deployment, Security, Networking, Helm, GitOps
-> > >   >   >     - - **Docker**: Containerization, Optimization, Multi-stage builds
-> > >   >   >       - - **Argo CD**: GitOps continuous delivery, application management
-> > >   >   >        
-> > >   >   >         - ### 📝 **Infrastructure as Code**
-> > >   >   >         - ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-> > >   >   >         - ![HCL](https://img.shields.io/badge/HCL-000000?style=flat&logo=hashicorp&logoColor=white)
-> > >   >   >         - ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
-> > >   >   >         - - **Terraform**: Multi-environment deployments, Azure, AWS, Kubernetes
-> > >   >   >           - - **Helm**: Package management, chart development
-> > >   >   >             - - **Module design**: Reusable, production-grade infrastructure
-> > >   >   >              
-> > >   >   >               - ### 🔄 **CI/CD & DevOps**
-> > >   >   >               - ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-> > >   >   >               - ![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-> > >   >   >               - ![GitOps](https://img.shields.io/badge/GitOps-623CE4?style=flat&logo=gitops&logoColor=white)
-> > >   >   >               - - **Jenkins**: Pipeline design, shared libraries, automation
-> > >   >   >                 - - **GitHub Actions**: Workflow automation, release management
-> > >   >   >                   - - **DevSecOps**: Security scanning, compliance, secret management
-> > >   >   >                    
-> > >   >   >                     - ### 💻 **Programming Languages**
-> > >   >   >                     - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-> > >   >   >                     - ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-> > >   >   >                     - ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-> > >   >   >                     - ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-> > >   >   >                     - - **Python**: Automation scripts, Flask applications
-> > >   >   >                       - - **Go**: Microservices, performance-critical tools
-> > >   >   >                         - - **Java**: Enterprise applications, Spring Boot
-> > >   >   >                           - - **Bash**: System administration, CI/CD scripting
-> > >   >   >                            
-> > >   >   >                             - ---
+> > >   >   > - - **Azure DevOps**: Pipelines, Repos, Artifacts, Test Plans
+> > >   >   >   - - **AWS**: EC2, ECS, Lambda, CloudFormation, DynamoDB
+> > >   >   >    
+> > >   >   >     - ### 🐳 **Orchestration & Containers**
+> > >   >   >     - ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+> > >   >   >     - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+> > >   >   >     - ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
+> > >   >   >     - ![Crossplane](https://img.shields.io/badge/Crossplane-0078D4?style=flat&logoColor=white)
+> > >   >   >     - - **Kubernetes**: Deployment, Security, Networking, Helm, GitOps, Multi-cluster management
+> > >   >   >       - - **Docker**: Containerization, Optimization, Multi-stage builds
+> > >   >   >         - - **Argo CD**: GitOps continuous delivery, application management
+> > >   >   >           - - **Crossplane**: Cloud infrastructure provisioning, multi-cloud management
+> > >   >   >            
+> > >   >   >             - ### 📝 **Infrastructure as Code**
+> > >   >   >             - ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+> > >   >   >             - ![HCL](https://img.shields.io/badge/HCL-000000?style=flat&logo=hashicorp&logoColor=white)
+> > >   >   >             - ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+> > >   >   >             - - **Terraform**: Multi-environment deployments, Azure, AWS, Kubernetes
+> > >   >   >               - - **Helm**: Package management, chart development
+> > >   >   >                 - - **Module design**: Reusable, production-grade infrastructure
+> > >   >   >                  
+> > >   >   >                   - ### 🔄 **CI/CD & Automation**
+> > >   >   >                   - ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+> > >   >   >                   - ![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+> > >   >   >                   - ![GitOps](https://img.shields.io/badge/GitOps-623CE4?style=flat&logo=gitops&logoColor=white)
+> > >   >   >                   - ![Azure%20Pipelines](https://img.shields.io/badge/Azure%20Pipelines-0078D4?style=flat&logo=azure-pipelines&logoColor=white)
+> > >   >   >                   - - **Jenkins**: Pipeline design, shared libraries, automation
+> > >   >   >                     - - **GitHub Actions**: Workflow automation, release management
+> > >   >   >                       - - **Azure Pipelines**: YAML pipelines, multi-stage deployments
+> > >   >   >                         - - **GitOps**: Infrastructure automation, declarative deployments
+> > >   >   >                          
+> > >   >   >                           - ### 🔐 **Security & DevSecOps**
+> > >   >   >                           - ![DevSecOps](https://img.shields.io/badge/DevSecOps-FF6B6B?style=flat&logoColor=white)
+> > >   >   >                           - - **Kubernetes Security**: Pod security policies, RBAC, network policies
+> > >   >   >                             - - **Container Scanning**: Vulnerability assessment, image analysis
+> > >   >   >                               - - **Secret Management**: HashiCorp Vault, Azure Key Vault
+> > >   >   >                                 - - **Compliance**: Security scanning, compliance automation
+> > >   >   >                                   - - **Infrastructure Security**: IAM, encryption, secure defaults
+> > >   >   >                                    
+> > >   >   >                                     - ### 💻 **Programming Languages**
+> > >   >   >                                     - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+> > >   >   >                                     - ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+> > >   >   >                                     - ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+> > >   >   >                                     - ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+> > >   >   >                                     - - **Python**: Automation scripts, Flask applications
+> > >   >   >                                       - - **Go**: Microservices, performance-critical tools
+> > >   >   >                                         - - **Java**: Enterprise applications, Spring Boot
+> > >   >   >                                           - - **Bash**: System administration, CI/CD scripting
+> > >   >   >                                            
+> > >   >   >                                             - ---
 > > >   >   >
 > > >   >   > ## 🎯 **Current Focus Areas**
 > > >   >   >
@@ -74,6 +88,7 @@
 > > >   >   > ✨ Kubernetes security hardening & compliance
 > > >   >   > ✨ GitOps implementation with Argo CD
 > > >   >   > ✨ DevSecOps practices and automation
+> > >   >   > ✨ Crossplane-based multi-cloud infrastructure provisioning
 > > >   >   >
 > > >   >   > ---
 > > >   >   >
@@ -97,8 +112,10 @@
 > > >   >   >   - - ✅ Kubernetes architecture & advanced topics
 > > >   >   >     - - ✅ Infrastructure as Code examples & patterns
 > > >   >   >       - - ✅ Certification preparation materials (CKA, CKS)
-> > >   >   >        
-> > >   >   >         - ---
+> > >   >   >         - - ✅ DevSecOps and security automation projects
+> > >   >   >           - - ✅ Azure DevOps and multi-cloud solutions
+> > >   >   >            
+> > >   >   >             - ---
 > > >   >   >
 > > >   >   > ## 🔗 **Connect With Me**
 > > >   >   >
@@ -114,10 +131,11 @@
 > > >   >   > **Status**: 🟢 Open to opportunities
 > > >   >   > **Location**: India (Willing to relocate / Remote preferred)
 > > >   >   > **Notice Period**: Immediate / Negotiable
+> > >   >   > **Specialization Focus**: DevSecOps | Azure DevOps | Cloud Architecture
 > > >   >   >
 > > >   >   > > 💬 **Interested in collaborating or discussing opportunities?**
 > > >   >   > > > [Get in touch via email](mailto:modaknarayan97@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/narayan-modak)
 > > >   >   > > >
 > > >   >   > > > ---
 > > >   >   > > >
-> > >   >   > > > *Last Updated: May 2026 | IIM Calcutta*
+> > >   >   > > > *Last Updated: May 2026 | IIM Calcutta | Seeking DevSecOps & Azure DevOps roles worldwide*
